@@ -80,3 +80,33 @@ public class EmployeeManager {
         }
     }
 }
+
+
+output:
+1. Add 2. Update 3. Remove 4. Search 5. Exit
+Choice: 1
+Enter ID: 10366
+Enter Name: Deepak yadav
+Enter Salary: 50000
+Employee added.
+
+1. Add 2. Update 3. Remove 4. Search 5. Exit
+Choice: 2
+Enter ID: 10366
+New Name: Deepak yadav
+New Salary: 60000
+Updated.
+
+1. Add 2. Update 3. Remove 4. Search 5. Exit
+Choice: 3
+Enter ID: 10366
+Removed.
+
+1. Add 2. Update 3. Remove 4. Search 5. Exit
+Choice: 4
+Enter ID: 10366
+Not found.
+
+1. Add 2. Update 3. Remove 4. Search 5. Exit
+Choice: 5
+Goodbye!
