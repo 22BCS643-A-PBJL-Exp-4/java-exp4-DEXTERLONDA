@@ -38,3 +38,15 @@ String type = scanner.nextLine();
 system.bookTicket(name, type);
 }
 scanner.close();}}
+
+// output:
+// Enter VIP seats: 50
+// Enter Regular seats: 100
+// Enter number of customers: 150
+// Enter customer name: Deepak Yadav
+// Enter ticket type (VIP/Regular): VIP
+// Deepak Yadav booked a VIP ticket. Remaining: 49
+// Enter customer name: DEV
+// Enter ticket type (VIP/Regular): Regular
+// DEV booked a Regular ticket. Remaining: 99
+// Enter customer name: 
